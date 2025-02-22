@@ -19,13 +19,14 @@ This is a **Zomato Clone** built using **HTML, CSS, and JavaScript**, replicatin
 - **CSS3** for styling and responsiveness
 - **JavaScript (Vanilla JS)** for interactivity
 
-## 📂 Project Structure
+## 💂️ Project Structure
 
 ```
 📁 zomato-clone
-│-- 📄 index.html  # Main HTML file
-│-- 📄 style.css   # Styling with CSS
-│-- 📄 script.js   # JavaScript for interactivity
+️📄 index.html  # Main HTML file
+️📄 style.css   # Styling with CSS
+️📄 script.js   # JavaScript for interactivity
+📁 assets/      # Folder for images and media
 ```
 
 ## 🎯 How to Run the Project
@@ -38,7 +39,7 @@ This is a **Zomato Clone** built using **HTML, CSS, and JavaScript**, replicatin
    ```bash
    cd zomato-clone
    ```
-3. **Open ****\`\`**** in a browser.**
+3. **Open `index.html` in a browser.**
 4. **Enjoy the Zomato-like experience!**
 
 ## 📌 Future Enhancements
